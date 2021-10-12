@@ -1,0 +1,6 @@
+Name: Alec
+Level of Service: Fair
+Bill Amount: $250.0
+Tax Rate: $18.13
+Tip Amount: $25.0
+Total Bill: $293.13
